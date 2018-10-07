@@ -29,6 +29,7 @@ $ vagrant up
 
 * debian7 : Simple Debian 7 Wheezy
 * debian8-openmanage : Debian 8 jessie with Dell OpenManage Server Administrator
+* debian9-weaveworks : Debian 9 with [https://www.weave.works/](weave net)
 
 ## Note
 You may need to install VirtualBox guest additions to get some features (like shared folder)

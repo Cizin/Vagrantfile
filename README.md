@@ -30,6 +30,9 @@ $ vagrant up
 * [debian7](https://github.com/Cizin/Vagrantfile/tree/master/debian7/) : Simple Debian 7 Wheezy
 * [debian8-openmanage](https://github.com/Cizin/Vagrantfile/tree/master/debian8-openmanage/) : Debian 8 jessie with Dell OpenManage Server Administrator
 * [debian9-weaveworks](https://github.com/Cizin/Vagrantfile/tree/master/debian9-weaveworks/) : Debian 9 with weave net [https://www.weave.works/](https://www.weave.works/)
+* [centos7](https://github.com/Cizin/Vagrantfile/tree/master/centos7) : Simple CentOS 7
+* [centos7-cockpit](https://github.com/Cizin/Vagrantfile/tree/master/centos7-cockpit) : CentOS 7 with cockpit [https://cockpit-project.org/](https://cockpit-project.org/)
+* [rhel7](https://github.com/Cizin/Vagrantfile/tree/master/rhel7) : RedHat Entreprise 7
 
 ## Note
 You may need to install VirtualBox guest additions to get some features (like shared folder)
